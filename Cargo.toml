@@ -1,0 +1,2 @@
+[workspace]
+members = ["cgroup-dev", "cgroup-dev-common", "xtask"]
